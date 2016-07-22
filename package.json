@@ -1,0 +1,17 @@
+{
+  "name": "Indeed_HTTPS",
+  "version": "1.0.0",
+  "description": "Indeed HTTPS and Timestamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atf245@nyu.edu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+	"xml2json": "^0.9.1"
+  }
+}
